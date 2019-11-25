@@ -6,7 +6,7 @@ This project is my starter project for Apps with three.js using react-three-fibe
 
 The simple app consists of a rotating cube inside a canvas.
 
-![screenshot](.\screenshot.jpg)
+![screenshot](./screenshot.jpg)
 
 
 
