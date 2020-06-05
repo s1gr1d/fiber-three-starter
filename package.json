@@ -7,7 +7,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
     "react-spring": "8.0.11",
-    "react-three-fiber": "^2.0.0",
+    "react-three-fiber": "^2.0.9",
     "three": "0.102.1"
   },
   "scripts": {
